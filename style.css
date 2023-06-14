@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(226, 243, 194);
+}
+
+header,
+footer {
+    background-color: darkkhaki;
+    padding: 5px;
+    color: red;
+    font-size: 25px;
+    text-align: center;
+}
